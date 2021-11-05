@@ -1,7 +1,7 @@
 const qKey = document.getElementById("qKey");
 const wKey = document.getElementById("wKey");
 const eKey = document.getElementById("eKey");
-const rKey = document.getElementById("rKey");
+const rKey = document.getElementById("rKey"); 
 
 qKey.addEventListener("click", () => {
     document.getElementById("c").pause();
